@@ -34,4 +34,4 @@ I completed this project as part of my Data Science and Machine Learning Interns
 
 Google colab file link: https://drive.google.com/file/d/1ddrpi0I8IFBHF3wE-B30HSgprHIaG7PZ/view?usp=sharing
 
-Project presentation file link: https://docs.google.com/presentation/d/1kR0A0_J0_PfXr1t1O3LF1QUsv308WHMO/edit?usp=sharing&ouid=107303018619106223960&rtpof=true&sd=true
+Project presentation file link: https://docs.google.com/presentation/d/1gozHBXHwQFcJOJ00W3x59qdH0UPLjoYI/edit?usp=sharing&ouid=107303018619106223960&rtpof=true&sd=true
